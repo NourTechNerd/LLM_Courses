@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+      "agent": "./agent.py:graph"
+    },
+    "env": "C:/Users/hp/Downloads/LLM_Courses/Pratiques/LangGraph_Cloud/.env"
+  }
