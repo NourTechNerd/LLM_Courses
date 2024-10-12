@@ -1,0 +1,223 @@
+Rapport d’éco-conception 
+Eco-concevoir une bouteille en PET 
+ 
+ 
+ 
+ 
+                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Encadré par: 
+• 
+Mme Dadda Afaf 
+Réalisé par :                                                                            
+• 
+SAIDI NOUREDDINE  
+• 
+LAMRABET MOHAMED 
+• 
+AHRIZ ABIR  
+• 
+BOUROUMMANA WIAM  
+• 
+CHEMRAH SALAH-EDDINE 
+Section: 2 
+Année Universitaire 2023/2024 
+ 
+ 
+Projet de Eco conception 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+Table des matières 
+Introduction : ......................................................................................................................................... 3 
+1) 
+La description de produit : ............................................................................................................... 3 
+1.1) 
+Les fonctions du système : ......................................................................................................... 3 
+a) La fonction principale : ................................................................................................................ 3 
+b) Les fonctions secondaires : .......................................................................................................... 3 
+2) 
+Unité fonctionnelle : ........................................................................................................................ 4 
+3) 
+Les frontières de système ................................................................................................................ 4 
+a) Procédés inclus: .............................................................................................................................. 4 
+b)  Procédés Exclus: ............................................................................................................................. 4 
+4) Arbre de processus ............................................................................................................................. 4 
+5) 
+Inventaire (ICV) : ............................................................................................................................. 6 
+6) 
+Impacts Initials ................................................................................................................................ 6 
+7) 
+Pistes éco conceptuelles : ................................................................................................................ 7 
+8) 
+Les impacts après Eco-Conception : ................................................................................................. 8 
+9) 
+Conclusion ...................................................................................................................................... 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Projet de Eco conception 
+ 
+3 
+ 
+ 
+ 
+Introduction : 
+ 
+L'éco-conception a pour objectif principal de réduire les impacts environnementaux d'un produit, mais 
+elle est aussi au cœur de la démarche développement durable d'une entreprise. En effet, il est difficile 
+d'admettre qu'une entreprise puisse se prévaloir d'être vertueuse en matière de développement durable 
+si elle fournit des produits ou services très "impactant" pour l'environnement. Par ailleurs, il y a là, 
+comme en matière de management, une question d'image et de marchés. Les entreprises ont en effet 
+très vite compris qu'il était dans leur intérêt de mettre en place des démarches d'éco- conception, 
+d'abord en termes d'image, mais aussi parce qu'éco-concevoir, c'est souvent faire des économies. 
+    Dans notre étude on va s’intéresser à l'écoconception d'une bouteille en PET (polyéthylène 
+téréphtalate). C’est une approche innovante visant à réduire l'impact environnemental de cet emballage 
+couramment utilisé pour une variété de produits, notamment les boissons gazeuses, l'eau en bouteille, 
+les produits de soins personnels et bien d'autres. Le PET est un matériau plastique largement répandu en 
+raison de sa légèreté, de sa résistance et de sa transparence, mais il est également associé à des 
+problèmes environnementaux tels que la pollution plastique et les émissions de gaz à effet de serre. 
+L'écoconception de bouteilles en PET repose sur des principes d'optimisation de la durabilité tout au long 
+du cycle de vie du produit, de la conception initiale à la fin de vie, en tenant compte de l'ensemble des 
+aspects environnementaux. Cette approche vise à minimiser la consommation de ressources, les 
+émissions de gaz à effet de serre et les déchets tout en maintenant les performances et la fonctionnalité 
+de l'emballage. Dans ce cadre, nous explorerons les aspects clés de l'écoconception des bouteilles en PET, 
+en mettant en lumière les avantages environnementaux et les innovations associées à cette démarche. 
+ 
+1) La description de produit : 
+ 
+    Les bouteilles en PET sont des emballages polyvalents et utilisés, caractérisés par leur légèreté, leur 
+transparence, leur recyclabilité et leur résistance, tout en étant soumis à des efforts continus 
+d'amélioration environnementale grâce à des pratiques d'écoconception. 
+1.1) 
+Les fonctions du système : 
+a) La fonction principale : 
+-Contenir, protéger et distribuer divers types de liquides et de produits, tout en étant généralement 
+légères, résistances et économiques. 
+b) Les fonctions secondaires : 
+-Fonctions de protection (protection aux UV, barrière à l’oxygène) 
+-Marketing des additifs 
+ 
+ 
+Projet de Eco conception 
+ 
+4 
+-Communiquer au consommateur l’information sur le produit  
+-Faciliter l’utilisation du produit 
+-Vendre le produit 
+ 
+2) Unité fonctionnelle : 
+ 
+Nous définissons l'unité fonctionnelle suivante :  
+"Emballer 1.5l de boissons dans une bouteille en PET (pour acheminer la boisson de son lieu de 
+production à son lieu de consommation)".  
+Cette unité fonctionnelle prend en compte seulement la fonction de transport de la bouteille et pas celle 
+de protection du produit et de sa conservation.  
+Actuellement la majorité des bouteilles en PET sont vendues en grand conditionnement 1.5l. Toutefois, la 
+proportion de petites bouteilles en PET est de plus en plus élevée. 
+3)  Les Frontières de system  
+a) Procédés inclus : 
+b)  Procédés Exclus: 
+ 
+ 
+ 
+ 
+ 
+4) Arbre de processus  
+ 
+ Les étapes du cycle de vie prises en compte sont :   
+❖   Production et transport des matériaux constitutifs des emballages primaires 
+❖  Mise en forme (transformation) des emballages primaires (ex. injection, soufflage…)  
+❖   Distribution des bouteilles 
+❖  Fin de vie des emballages primaires 
+❖ Collecte sélective – Centre de tri – Recyclage 
+❖ Collecte non sélective – Incinération ou mise en décharge 
+       
+ Les étapes suivantes ont été exclues du champ de l’étude : 
+❖ La fabrication de la boisson, le remplissage et le conditionnement des bouteilles  
+❖ Le stockage et le refroidissement des bouteilles lors de la phase de distribution. 
+❖ La production des colorants 
+❖ Le trajet des clients entre leur domicile et le point de vente (et vice et versa) 
+❖ Les impacts liés au stockage et au refroidissement de la bouteille chez le consommateur. 
+❖ Manchonnage des bouteilles 
+❖  Emballages des préformes produites par des fournisseurs extérieurs 
+ 
+ 
+Projet de Eco conception 
+ 
+5 
+ 
+ 
+ 
+Projet de Eco conception 
+ 
+6 
+Note : Le type d’emballage I englobe la bouteille en PET. 
+5) Inventaire (ICV) : 
+ 
+6) Impacts Initials 
+Il apparait que la phase la plus contributrice dans le bilan environnemental d’une telle bouteille est : 
+❖ Production des matières premières pour la bouteille 
+ 
+ 
+Projet de Eco conception 
+ 
+7 
+7) Pistes éco conceptuelles : 
+  
+ 
+ 
+Les principaux axes d’éco-conception pour améliorer le bilan environnemental de la bouteille en PET : 
+❑ La diminution de la masse de la bouteille. 
+❑ L’augmentation du taux de recyclage équivalent par une augmentation de la quantité de RPET dans la bouteille.
+ 
+ 
+Projet de Eco conception 
+ 
+8 
+8) Les impacts après Eco-Conception : 
+ 
+Note : A cause des limitations dans la connaissance de logiciel Ansys, on n’a pas vérifié la conservation 
+des caractéristiques technique de la bouteille après Eco conception. 
+9) Conclusion 
+ 
+ En conclusion, le projet d'écoconception de la bouteille d'eau en PET a identifié des pistes concrètes 
+pour réduire son impact environnemental. En optimisant les matériaux, en minimisant la quantité de 
+plastique utilisée et en favorisant le recyclage, nous pouvons améliorer significativement la durabilité du 
+produit. Ces ajustements ne seulement renforcent notre engagement envers l'environnement, mais aussi 
+répondent aux attentes croissantes des consommateurs. La mise en œuvre de ces recommandations 
+nécessitera une collaboration interne et externe, mais elle représente une opportunité stratégique 
+d'innovation et de différenciation sur le marché. En adoptant cette approche éco-responsable, nous 
+contribuons à la construction d'un avenir durable. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
