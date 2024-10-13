@@ -8,7 +8,7 @@ import os
 
 load_dotenv()
 
-embedder = GoogleGenerativeAIEmbeddings(google_api_key=os.getenv("GOOGLE_API_KEY"))
+embedder = GoogleGenerativeAIEmbeddings(google_api_key=os.getenv("GOOGLE_API_KEY"),model="models/text-embedding-004")
 ### Load Files
 
 def Load_Files(Data_Path):
